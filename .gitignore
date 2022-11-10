@@ -1,0 +1,6 @@
+# Leave out rust stuff
+debug/
+target/
+
+Cargo.lock
+*.rs.bk
